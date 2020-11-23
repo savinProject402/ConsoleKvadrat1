@@ -10,6 +10,7 @@ namespace ConsoleKvadrat
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
